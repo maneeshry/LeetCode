@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\168r1\\Downloads\\softwaresFromInternet\\jsoup-1.6.0.jar\\jsoup-1.6.0.jar"
+    ]
+}
